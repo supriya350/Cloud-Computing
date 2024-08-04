@@ -6,23 +6,23 @@ ADVANTAGES OF CLOUD COMPUTING:- 1. Backup and restore Data  2. Excellent Accessi
 ARCHITECTURE:- Cloud Computing technology is used by both small and large organizations to store the information in cloud and access it from anywhere at anytime using the internet connection. 
 Cloud Computing Architecture is divided into two parts- FRONT END, BACK END.
 
-                               CLIENT INFRASTRUCTURE                            front end
+                                 CLIENT INFRASTRUCTURE              front end
                                          ^
                                          |
                                          |
-                                     APPLICATION                                  backend
-  MANAGEMENT                              SERVICE
-                                   RUNTIME CLOUD                       SECURITY
-                                     STORAGE
-                                  INFRASTRUCTURE
+                                     APPLICATION                    backend
+    MANAGEMENT                           SERVICE
+                                      RUNTIME CLOUD                       SECURITY
+                                        STORAGE
+                                    INFRASTRUCTURE
 
-     Client Infrastructure: front end include GUI, it is used by client side eg chrome, firefox.
-     Application:- Any software Platform that client wants to access.
-     Service :- Which type of service you accesss according to client.
-     Runtime Cloud:- Provides execution 
-     Storage:- Huge storage capacity
-     Infrastructure:-  provides services on host level, application, network cloud infrastructure,
-     Mnagement:- used to manage such as application, services, runtime cloud, storage, infrastructure.
+  Client Infrastructure: front end include GUI, it is used by client side eg chrome, firefox.
+  Application:- Any software Platform that client wants to access.
+  Service :- Which type of service you accesss according to client.
+  Runtime Cloud:- Provides execution 
+  Storage:- Huge storage capacity
+  Infrastructure:-  provides services on host level, application, network cloud infrastructure,
+Management:- used to manage such as application, services, runtime cloud, storage, infrastructure.
 Backend:- used by service provider manages all resources to provide cloud computing.
 Front end:-  used by client.
 
